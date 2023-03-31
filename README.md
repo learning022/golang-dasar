@@ -31,6 +31,6 @@ ikuti langkahnya
 ![image](https://user-images.githubusercontent.com/15622730/229246571-cfa8d2d3-d7fa-4fe7-a44b-d309fe056e98.png)
 
 Langkah Selanjutnya belajat Looping
-![image](https://user-images.githubusercontent.com/15622730/229247863-03300bdb-9ed6-4a5c-819b-10591f10ffa6.png)
-Disini kita akan melakukan looping sebanyak 15 kali
-![image](https://user-images.githubusercontent.com/15622730/229247913-0a9f927b-5929-4cac-bb78-983133a58af9.png)
+![image](https://user-images.githubusercontent.com/15622730/229247863-03300bdb-9ed6-4a5c-819b-10591f10ffa6.png)<br>
+Disini kita akan melakukan looping sebanyak 15 kali <br>
+![image](https://user-images.githubusercontent.com/15622730/229247913-0a9f927b-5929-4cac-bb78-983133a58af9.png)<>br
