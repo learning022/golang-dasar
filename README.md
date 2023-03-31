@@ -41,4 +41,31 @@ berikut script codenya
 	}
 ```
 
-![image](https://user-images.githubusercontent.com/15622730/229247913-0a9f927b-5929-4cac-bb78-983133a58af9.png)<>br
+![image](https://user-images.githubusercontent.com/15622730/229247913-0a9f927b-5929-4cac-bb78-983133a58af9.png)<br>
+
+### Membuat Looping ke tiga
+```go
+package main
+
+import "fmt"
+
+func Looping2() {
+	// berikut loopingnya ketiga
+	title := "Ngoding Golang bersama RPL Class"
+
+	for index, letter := range title {
+		fmt.Println("index :", index, "leter :", string(letter))
+	}
+}
+```
+
+Berikut hasilnya
+![image](https://user-images.githubusercontent.com/15622730/229248977-500d12f8-b62a-4fb3-9d94-e2522794b1aa.png)
+
+
+
+
+
+
+
+
