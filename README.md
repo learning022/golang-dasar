@@ -28,3 +28,4 @@ go mod init masukanurlpackagenya
 ```
 
 ikuti langkahnya
+![image](https://user-images.githubusercontent.com/15622730/229246571-cfa8d2d3-d7fa-4fe7-a44b-d309fe056e98.png)
